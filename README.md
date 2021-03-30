@@ -8,18 +8,22 @@
 <BR/>
 <BR/>
 
-1. Home Page, Admin Login , Customer Login
-2. Financial , Hotel manage in each room
-3. customer, book food (user), accept order (food - admin)
-4. book room , option book room(Vip - not vip)
-5. check out, feed back
+1. Customer’s management
+2. Room managemet in each unit
+3. Financial management
+4. Furniture management
+5. Book food
+6. Login
+7. Book room
+8. Check out
+9. Feedback
 
 <BR/>
 
 | ID       | Tên thành viên | Tên module | Trạng thái |
 | -------- | -------------- | ---------- | ---------- |
-| HE140466 | Lê Trung Sang  | 1          | Done       |
-| HE140410 | Bùi Duy Khải   | 3          | Done       |
-| HE140488 | Bùi Đình Chung | 4          | Done       |
-| HE140780 | Trần Xuân Sơn  | 5          | Done       |
-| HE140525 | Ngô Anh Tú     | 2          | Done       |
+| HE140466 | Lê Trung Sang  | 1,2        | Done       |
+| HE140410 | Bùi Duy Khải   | 7          | Done       |
+| HE140488 | Bùi Đình Chung | 5,6        | Done       |
+| HE140780 | Trần Xuân Sơn  | 3,4        | Done       |
+| HE140525 | Ngô Anh Tú     | 8,9        | Done       |
